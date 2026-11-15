@@ -1,0 +1,20 @@
+{
+  "base": "a775f93d7a1b3b64646aed356769c3f9de7ddee9",
+  "head": "d1c6ed3f97a1afbf8936324c23ac541c5ec60307",
+  "viewport": {
+    "width": 390,
+    "height": 740
+  },
+  "engine": "WebKit 18.2",
+  "fixture": {
+    "setupPhase": "done",
+    "state": "waitfinal",
+    "message": "Node Running",
+    "initialsync": ""
+  },
+  "state": "Anonymous actual production build, empty autofocused password, disabled submit, matching fixture, network idle, fonts ready, 1s settled. Authentication submission blocked.",
+  "sha256": {
+    "before-webkit-390x740.png": "acfb8de174b26e90be85999a49791a5159139b2dc1793bad4b1d602144aea09a",
+    "after-webkit-390x740.png": "6fd03d22664f70aa9acb7391946d73a7d147f5a81c6984a1cb62f66807c50288"
+  }
+}
