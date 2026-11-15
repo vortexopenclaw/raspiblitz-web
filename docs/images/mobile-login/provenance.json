@@ -1,0 +1,21 @@
+{
+  "base": "a775f93d7a1b3b64646aed356769c3f9de7ddee9",
+  "head": "df2c9b99c3d20a007ddad932c2bc613d4c3ace92",
+  "viewport": {
+    "width": 390,
+    "height": 740
+  },
+  "browser": "WebKit 18.2",
+  "page": "Actual production build, anonymous /login",
+  "fixture": {
+    "setupPhase": "done",
+    "state": "waitfinal",
+    "message": "Node Running",
+    "initialsync": ""
+  },
+  "capture": "Both views settled after network idle, font readiness, and 1 second; original autofocus retained, empty password, disabled submit. No authentication submitted.",
+  "sha256": {
+    "before-webkit-390x740.png": "acfb8de174b26e90be85999a49791a5159139b2dc1793bad4b1d602144aea09a",
+    "after-webkit-390x740.png": "3a59082909947bbb4b91489eb0de62615df754d43b3b5fbce8d77d113d8467b6"
+  }
+}
